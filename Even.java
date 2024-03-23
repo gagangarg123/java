@@ -7,10 +7,10 @@ public class Even
 		int n=gagan.nextInt();
 		if(n%2==0){
 
-		System.out.println("It is a even number");
+		System.out.println("It is a Even number");
 		}
 		else{
-			System.out.println("It is a odd number");
+			System.out.println("It is a Odd number");
 		}
 	}
 }
